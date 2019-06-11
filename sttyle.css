@@ -1,0 +1,41 @@
+body
+{
+    background-image: url(Wallpaper/Butterlylisttwo.jpg);
+    background-attachment: fixed;
+}
+h1
+{
+    color: #aec3ef;    
+    font-size: 42px;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+h3
+{
+    font-size: 26px;
+    color:#dbebff;
+    text-align: center;
+    padding-left: 6cm;
+    padding-right: 6cm;
+}
+a
+{
+    font-size: 25px;
+    color: #7c7c7c;
+}
+p
+{
+       font-size: 30px;
+    text-align: center;
+    color: #d7dce2;
+    padding-left: 8cm;
+    padding-right: 7cm;
+}
+h6
+{
+    font-size: 25px;
+    color: #7c7c7c;
+}
